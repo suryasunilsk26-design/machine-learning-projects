@@ -21,7 +21,7 @@ This folder contains my Python practice programs.
 ### Skills
 
 | Skill | Status |
-|:---|---:|
+|---|---|
 | Python | Learning |
 | SQL | Learning |
 | Power BI | Learning |
